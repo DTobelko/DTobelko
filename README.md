@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DTobelko
 - 👀 I’m interested in gamedev and Unity
-- 🌱 I’m currently learning Unity, Character creator and iClone, Wwise
+- 🌱 I’m currently learning Zenject, optimazation
 - 📫 How to reach me - tobelko@bk.ru
 
 <!---
