@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DTobelko
 - 👀 I’m interested in gamedev and Unity
-- 🌱 I’m currently learning Zenject, optimazation
+- 🌱 I’m currently learning - game producing
 - 📫 How to reach me - tobelko@bk.ru
 
 <!---
